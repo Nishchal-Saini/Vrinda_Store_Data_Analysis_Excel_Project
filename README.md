@@ -15,10 +15,14 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 - Which channel is contributing to maximum to the sales?
 - Highest selling Category?
 
-- <a href = "https://github.com/Nishchal-Saini/Vrinda_Store_Data_Analysis_Excel_Project/blob/main/Dashboard_Image.png"> View Dashboard <a>
+-Dashboard Interaction <a href = "https://github.com/Nishchal-Saini/Vrinda_Store_Data_Analysis_Excel_Project/blob/main/Dashboard_Image.png"> View Dashboard <a>
 
 ## Process 
 - Verify data for any missing values and anomalies, and sort out the same.
 - Make sure data is consistent and clean with respect to datatype, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="1278" height="450" alt="Dashboard_Image" src="https://github.com/user-attachments/assets/186af877-5989-44ee-b574-ebc90078a7b6" />
+
