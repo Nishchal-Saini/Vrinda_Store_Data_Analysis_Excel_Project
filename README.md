@@ -13,4 +13,4 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 - List top 5 states contributing to the sales.
 - Relation between age and gender based on number of orders.
 - which channel is contributing to maximum to the sales?
-  - Highest selling Category?
+- Highest selling Category?
